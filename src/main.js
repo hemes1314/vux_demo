@@ -6,6 +6,7 @@ import VueRouter from 'vue-router'
 import App from './App'
 import Home from './components/HelloFromVux'
 import Hello from './components/HelloWorld'
+import $ from 'jquery'
 
 Vue.use(VueRouter)
 
