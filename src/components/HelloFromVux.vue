@@ -15,8 +15,7 @@
 			<x-button @click.native="iconType = 'success'" type="primary">登录</x-button>
 		</div>
 		<div style="padding:15px;">
-			<a id="ibangkf" href="http://www.ibangkf.com">网站客服</a>
-			<script type="text/javascript" src="http://c.ibangkf.com/i/c-hemes1314.js"></script>
+
 		</div>
   </div>
 </template>
